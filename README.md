@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slick-ss
+- 👋 Hi, I’m @shubham
 - 👀 I’m interested in earning money,learning and improvong
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that can help me earn money (not by unfair means😅) 
