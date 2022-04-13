@@ -8,3 +8,13 @@ Hi there!
 🎸 Outside the world of programming too, I enjoy pushing myself to develop new skills. My hobbies range from building PC, playing PC games to reading korean comics.
 
 ✈️ I love traveling too. I have been on many trips from Jammu and Kashmir to Andaman and Nicobar Islands and from Gujarat to Sikkim.
+
+🛠️ Skills
+Languages
+Java python C++
+
+Front-End Development
+html css 
+
+🖥️ Workspace Setup
+Ryzen 7 4800H gtx-1650 windows vs-code intellij idea pycharm
