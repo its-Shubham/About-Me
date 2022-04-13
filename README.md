@@ -1,5 +1,6 @@
 Hi there! 
-🚀 About Me
+
+                                                              `🚀 About Me`
 🎓 I am Shubham,I am also Pursuing my Masters in Computer Applications and will graduate in mid-2023.
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned Java, C++, Python, MySQL, Linux and Git along with Github.
@@ -9,15 +10,24 @@ Hi there!
 
 ✈️ I love traveling too. I have been on many trips from Jammu and Kashmir to Andaman and Nicobar Islands and from Gujarat to Sikkim.
 
-                                                                         `**🛠️ Skills**`
+                                                               🛠️ Skills
 _________________________________________________________________________________________________________________________________________________________________________
-`**Languages**`
-Java python C++
+**`Languages`**
+
+`Java`      `python`      `C++`
 
 _________________________________________________________________________________________________________________________________________________________________________
-`**Front-End Development**`
-html css 
+**`Front-End Development`**
+
+`HTML`      `CSS` 
 
 _________________________________________________________________________________________________________________________________________________________________________
-`**🖥️ Workspace Setup**`
-Ryzen 7 4800H gtx-1650 windows vs-code intellij idea pycharm
+**`🖥️ Workspace Setup`**
+
+Ryzen 7 4800H 
+
+NVIDIA GTX-1650 
+
+Windows 10
+
+`vs-code`       `intellij idea`         `pycharm`
