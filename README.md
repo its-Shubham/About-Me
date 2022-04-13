@@ -9,12 +9,15 @@ Hi there!
 
 ✈️ I love traveling too. I have been on many trips from Jammu and Kashmir to Andaman and Nicobar Islands and from Gujarat to Sikkim.
 
-🛠️ Skills
-Languages
+**🛠️ Skills**
+`**Languages**`
+_________________________________________________________________________________________________________________________________________________________________________
 Java python C++
 
-Front-End Development
+`**Front-End Development**`
+_________________________________________________________________________________________________________________________________________________________________________
 html css 
 
-🖥️ Workspace Setup
+`**🖥️ Workspace Setup**`
+_________________________________________________________________________________________________________________________________________________________________________
 Ryzen 7 4800H gtx-1650 windows vs-code intellij idea pycharm
